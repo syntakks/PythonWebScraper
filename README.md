@@ -92,4 +92,5 @@ ITEM_PIPELINES = {
 }
 NOTE: If you intend on writing your item data to a database, the Pipeline is the place to do it.
 
-
+# Yelp Restaurant Titles: class
+link__09f24__1kwXV link-color--inherit__09f24__3PYlA link-size--inherit__09f24__2Uj95
